@@ -1,0 +1,6 @@
+
+run args
+-r || --rom : loads *.gb file
+-s || --scale : times window size more than 1
+-f || --fullscreen
+-bw || --borderlesswindow
